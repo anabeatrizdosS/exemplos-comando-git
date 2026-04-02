@@ -2,3 +2,6 @@ Oi, galerinha dos games.
 Bora fazer um pushzão no git
 
 :P
+
+Exemplo de texto para fazer o pull
+:D
