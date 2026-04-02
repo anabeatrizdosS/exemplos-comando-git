@@ -1,1 +1,2 @@
-Oi, galerinha dos games
+Oi, galerinha dos games.
+Bora fazer um pushzão no git
